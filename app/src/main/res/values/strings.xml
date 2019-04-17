@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitwithRoom</string>
+    <string name="network_error">No network connection.</string>
+</resources>
